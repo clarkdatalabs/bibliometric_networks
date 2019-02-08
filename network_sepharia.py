@@ -27,16 +27,31 @@ with open('links_by_book_without_commentary.csv', "r") as csvfile:
         DG.add_edge(i[1],i[0], weight=i[2])
 
 
+# layout = nx.spring_layout(DG)
+# nx.draw_spring(DG)
+# edgeDataLabels = {}
+# for a, b in DG.edges():
+#     # print(DG.get_edge_data(a, b, {"weight":0})["weight"])
+#     edgeDataLabels[(a, b)] = str(DG.get_edge_data(a, b,["weight"]))
+#     # retrieve the edge data dictionary
+    
+# nx.draw_networkx(DG,pos=layout) # draw the edge labels
+# plt.show()
+
+
+
+
 layout = nx.spring_layout(DG)
 nx.draw_spring(DG)
 edgeDataLabels = {}
 for a, b in DG.edges():
-    print(DG.get_edge_data(a, b, {"weight":0})["weight"])
-    edgeLabels[(a, b)] = str(DG.get_edge_data(a, b,["weight"]))
+    # print(DG.get_edge_data(a, b, {"weight":0})["weight"])
+    edgeDataLabels[(a, b)] = str(DG.get_edge_data(a, b,["weight"]))
     # retrieve the edge data dictionary
     
-nx.draw_networkx_edge_labels(DG,pos=layout, edge_labels=edgeLabels) # draw the edge labels
+nx.draw_networkx(DG,pos=layout, width = .1, alpha = .8) # draw the edge labels
 plt.show()
+
 # show the plotting window
 
 
