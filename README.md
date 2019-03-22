@@ -13,4 +13,6 @@ Other struggles:
 When running the script in a notebook, jordan had trouble getting the datashader module to import. tried switching versions of python and creating custom environments with specific versions of different packages. figured out colab bypasses those issues. enabling anyone to run it regardless of versions and environments. 
 
 the only thing needed to make the network print in-line in colab is the following line of code:
-
+import os
+os.environ['HV_DOC_HTML'] = 'true'
+and you have to tell it not to "reset run times" after each time. 
