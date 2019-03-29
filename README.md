@@ -8,13 +8,13 @@ We tried out multiple Python libraries for ease of use and efficiency before lan
 ### About Colaboratory
 While we originally developed this script in a local notebook, we found that running it through Google's cloud-based Jupyter notebook environment [Colaboratory](https://colab.research.google.com) is a smooth option, particularly for nacent coders. We encountered version conflicts between the dependencies when setting up a local notebook environment that were bipassed in Colab. Colaboratory allows you to use and share Jupyter notebooks from your browser, without having to download, install, or run anything on your own computer. Notebooks can be saved to Google Drive, Github or downloaded locally. A single line of code adapts the script render in Colab. 
 
-To open the notebook in Colab, click on the notebook from the repository list. GitHub will open a preview, click this 
+To open the notebook in Colab, click on the notebook from the repository list. GitHub will open a preview, click this icon [!Colab Logo](/img/colab-badge.jpg)
 on the icon ___ to open our notebook directly in Colaboratory. 
 
 Cloning a Github Repo to Colab
 
 
-You can run this notebook in Colaboratory by clicking this icon at the top of the notebook, downlading the notebook and importing it to Colaboratory manually, or downloading the notebook to run locally /Users/Jordan_Earnest/Documents/GitHub/bibliometric_networks/img/colab-badge.jpg
+You can run this notebook in Colaboratory by clicking this icon at the top of the notebook, downlading the notebook and importing it to Colaboratory manually, or downloading the notebook to run locally
 
 - how do you make a copy of the notebook in colab into your own repo
 - link to put things on a webpage. 
