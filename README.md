@@ -14,7 +14,7 @@ on the icon ___ to open our notebook directly in Colaboratory.
 Cloning a Github Repo to Colab
 
 
-You can run this notebook in Colaboratory by clicking this icon at the top of the notebook, downlading the notebook and importing it to Colaboratory manually, or downloading the notebook to run locally
+You can run this notebook in Colaboratory by clicking this icon at the top of the notebook, downlading the notebook and importing it to Colaboratory manually, or downloading the notebook to run locally /Users/Jordan_Earnest/Documents/GitHub/bibliometric_networks/img/colab-badge.jpg
 
 - how do you make a copy of the notebook in colab into your own repo
 - link to put things on a webpage. 
