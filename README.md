@@ -8,7 +8,8 @@ We tried out multiple Python libraries for ease of use and efficiency before lan
 ### About Colaboratory
 While we originally developed this script in a local notebook, we found that running it through Google's cloud-based Jupyter notebook environment [Colaboratory](https://colab.research.google.com) is a smooth option, particularly for nacent coders. We encountered version conflicts between the dependencies when setting up a local notebook environment that were bipassed in Colab. Colaboratory allows you to use and share Jupyter notebooks from your browser, without having to download, install, or run anything on your own computer. Notebooks can be saved to Google Drive, Github or downloaded locally. A single line of code adapts the script render in Colab. 
 
-Click on the icon ___ to open our notebook directly in Colaboratory. 
+To open the notebook in Colab, click on the notebook from the repository list. GitHub will open a preview, click this 
+on the icon ___ to open our notebook directly in Colaboratory. 
 
 Cloning a Github Repo to Colab
 
