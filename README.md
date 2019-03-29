@@ -10,7 +10,7 @@ While we originally developed this script in a local notebook, we found that run
 
 To open the notebook in Colab, click on the notebook from the repository list. GitHub will open a preview, click this icon [!Colab Logo](/img/colab-badge.jpg)
 
-[!Image of Logo](https://colab.research.google.com/assets/colab-badge.svg)
+![Image of Logo](https://colab.research.google.com/assets/colab-badge.svg)
 on the icon ___ to open our notebook directly in Colaboratory. 
 
 Cloning a Github Repo to Colab
