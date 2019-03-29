@@ -11,9 +11,6 @@ While we originally developed this script in a local notebook, we found that run
 To open the notebook in Colab, click on the notebook from the repository list. GitHub will open a preview, click this icon  ![Image of Logo](https://colab.research.google.com/assets/colab-badge.svg) from the top of the notebook to open directly in Colaboratory. Alternatively, you can clone or download this repository and put in Google Drive. Google Drive will recognize the *.ipynb* notebook file format and give you the option to open in Colaboratory. 
 
 
-
-You can run this notebook in Colaboratory by clicking this icon at the top of the notebook, downlading the notebook and importing it to Colaboratory manually, or downloading the notebook to run locally
-
 - how do you make a copy of the notebook in colab into your own repo
 - link to put things on a webpage. 
 - how to download your graph
