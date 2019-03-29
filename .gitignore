@@ -4,3 +4,4 @@
 *.parquet
 *.parq
 *.TIF
+*.DS_Store
