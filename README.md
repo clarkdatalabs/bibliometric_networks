@@ -1,4 +1,4 @@
-# Bibliographic Networks: A Python Tutorial
+# [Bibliographic Networks: A Python Tutorial](https://github.com/clarkdatalabs/bibliometric_networks)
 **By Hannah VanWingen and Jordan Earnest**
 
 Networks can provide significant measures to identify data driven patterns and dependencies. Though, given a data file it can be difficult to discern how one may approach creating such a network. In this tutorial, we will use a bibliographic data file downloaded from a query search in [Scopus](https://https://www.scopus.com/search/form.uri) to walk through the process of cleaning the data file, writing a python script to parse the data into nodes and edges, computing graphical measures using [NetworkX](https://https://networkx.github.io/documentation/stable/index.html), and creating an interactive network display using [HoloViews](https://http://holoviews.org). 
