@@ -11,4 +11,4 @@ While we originally developed this script in a local notebook, we found that run
 To open the notebook in Colab, click on the notebook from the repository list. GitHub will open a preview, click this icon  ![Image of Logo](https://colab.research.google.com/assets/colab-badge.svg) from the top of the notebook to open directly in Colaboratory. (If the preview doesn't load, you may have to disable your ad blocker.) Alternatively, you can clone or download this repository and put in Google Drive. Google Drive will recognize the *.ipynb* notebook file format and give you the option to open in Colaboratory.
 
 ### Starting the Tutorials 
-The Colab file and the Jupyter Notebook file with an example csv can be found in their respective folders in the [Github Repository] (https://github.com/clarkdatalabs/bibliometric_networks). 
+The Colab file and the Jupyter Notebook file with an example csv can be found in their respective folders in the [Github Repository](https://github.com/clarkdatalabs/bibliometric_networks). 
